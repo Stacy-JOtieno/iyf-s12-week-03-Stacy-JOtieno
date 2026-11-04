@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Stacy Otieno</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <h2>Stacy Otieno</h2>
+        <nav aria-label="Main navigation">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="projects.html">Projects</a>
+            <a href="contact.html" class="active" aria-current="page">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Contact Me</h1>
+        <p>Have a question, idea, or opportunity? Send me a message.</p>
+
+        <form action="#" method="post">
+            <fieldset>
+                <legend>Personal Information</legend>
+
+                <label for="fullname">Full Name:</label>
+                <input type="text" id="fullname" name="fullname"
+                       placeholder="Enter your full name" required>
+
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email"
+                       placeholder="example@email.com" required>
+
+                <label for="phone">Phone Number (optional):</label>
+                <input type="tel" id="phone" name="phone"
+                       placeholder="e.g. 0712345678">
+            </fieldset>
+
+            <fieldset>
+                <legend>Your Message</legend>
+
+                <label for="subject">Subject:</label>
+                <select id="subject" name="subject" required>
+                    <option value="">Select a subject</option>
+                    <option value="general">General Inquiry</option>
+                    <option value="collaboration">Collaboration</option>
+                    <option value="feedback">Feedback</option>
+                </select>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message"
+                          placeholder="Write your message (at least 50 characters)"
+                          minlength="50" rows="6" required></textarea>
+            </fieldset>
+
+            <input type="checkbox" id="newsletter" name="newsletter" value="yes">
+            <label for="newsletter">Subscribe to my newsletter</label>
+
+            <br><br>
+            <button type="submit">Submit</button>
+        </form>
+
+        <section>
+            <h2>Connect With Me</h2>
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/stacy-otieno-86a825360/" target="_blank"
+                   rel="noopener noreferrer">LinkedIn</a>
+
+                <a href="https://github.com/Stacy-JOtieno" target="_blank"
+                   rel="noopener noreferrer">GitHub</a>
+
+                <a href="https://www.instagram.com/" target="_blank"
+                   rel="noopener noreferrer">Instagram</a>
+            </div>
+            
+        </section>
+
+        <section>
+            <h2>Location and Timezone</h2>
+            <p><strong>Location:</strong> Kenya</p>
+            <p><strong>Timezone:</strong> East Africa Time (EAT), UTC+3</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Stacy Otieno. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
