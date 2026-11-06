@@ -124,7 +124,10 @@ section {
     height: 180px;
     object-fit: cover;
 }
-
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
 /* 10. Contact page */
 fieldset {
     margin-bottom: 20px;
