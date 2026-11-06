@@ -42,3 +42,14 @@ Created an empty README.md file inside my-project.
 
 Displayed the directory structure to verify that everything was created correctly.
 
+## 6. `git clone URL`
+
+Downloads a remote repository from GitHub to your computer.
+
+## 7. `git log`
+
+Displays detailed commit history.
+
+## 8. `mkdir ~/git-practice`
+
+Creates a folder called git-practice.
