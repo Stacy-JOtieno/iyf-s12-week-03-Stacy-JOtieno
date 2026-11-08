@@ -1,2 +1,2 @@
-# Day 4 Git Practice
-- I learned how to write Git commit messages.
+# Day 4: Commit Messages
+TODO: write rules
