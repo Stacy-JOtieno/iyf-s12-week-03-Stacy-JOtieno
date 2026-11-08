@@ -102,12 +102,12 @@ iyf-s12-week-03-Stacy-JOtieno/
 5. I initially struggled with navigating between directories and executing commands in the correct project folder. I improved by practising commands such as cd, ls, mkdir, and pwd.
 
 ## Collaboration (required in Weeks 0, 3 and 7; omit on other solo weeks)
-- **Team / partner:** [@partner](https://github.com/partner)
-- **Shared repo:** https://github.com/...
-- **PR I opened:** https://github.com/.../pull/N
-- **PR I reviewed:** https://github.com/.../pull/N
-- **Merge conflict I resolved** (Weeks 0 and 3): https://github.com/.../pull/N
-(Collaboration happens outside this repository. It is marked **only** from these links — the marker does not search the shared repo for your work. Every link must point to something authored by your own GitHub account.)
+- **Team / partner:** [@CarlosAdenge](https://github.com/carlosadenge)
+- **Partner:** [@JosephineMoraa](https://github.com/JosphineMoraa)
+- **Shared repo:** (https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno)
+- **PR I opened:** (https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/3)
+- **PR I reviewed:** (https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/1)
+- **PRI reviewed:** (https://github.com/Stacy-JOtieno/iyf-s12-week-03-pair-Stacy-JOtieno/pull/2)
 
 ## Screenshots (optional)
 ![Basic Navigation](https://github.com/Stacy-JOtieno/iyf-s12-week-03-Stacy-JOtieno/blob/main/basic%20navigation.png)
